@@ -1,2 +1,2 @@
-# COMP61342
+# COMP66090
 Cognitive Robotics and Computer Vision Assignment
