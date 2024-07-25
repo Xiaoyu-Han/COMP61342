@@ -7,14 +7,7 @@ This project aims to combine music information retrieval techniques with machine
 
 ## Getting Started
 
-### Dependencies
-
-* Python 3.7 or higher
-* TensorFlow 2.0 or higher
-* NumPy
-* pandas
-
-### Installing
+### Download
 
 * Download folder directly
 * Clone the repository
@@ -22,10 +15,12 @@ This project aims to combine music information retrieval techniques with machine
 git clone https://github.com/Xiaoyu-Han/COMP66090.git
 ```
 
-### Executing program
+### Install Dependencies
 
-* Upload to Colab to run each unit directly or convert to py file and run locally
+```
+pip install -r requirements.txt
+```
 
 ## Authors
 
-Xiaoyu Han 
+* Email: xiaoyu.han-4@postgrad.manchester.ac.uk
