@@ -9,15 +9,19 @@ This project aims to combine music information retrieval techniques with machine
 
 ### Dependencies
 
-* Describe any prerequisites, libraries.
+* Python 3.7 or higher
+* TensorFlow 2.0 or higher
+* NumPy
+* pandas
 
 ### Installing
 
-* How/where to download your program
+* 1.Download folder directly
+* 2.Clone the repository
 
 ### Executing program
 
-* How to run the program
+* Upload to Colab to run each unit directly or convert to py file and run locally
 
 ## Authors
 
