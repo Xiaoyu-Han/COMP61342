@@ -16,8 +16,11 @@ This project aims to combine music information retrieval techniques with machine
 
 ### Installing
 
-* 1.Download folder directly
-* 2.Clone the repository
+* 1. Download folder directly
+* 2. Clone the repository
+```
+git clone https://github.com/Xiaoyu-Han/COMP66090.git
+```
 
 ### Executing program
 
