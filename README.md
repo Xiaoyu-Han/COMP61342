@@ -1,22 +1,19 @@
-# COMP66090 Project
+# COMP66090
 Music Information Retrieval with Machine Learning
 
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+This project aims to combine music information retrieval techniques with machine learning. Advanced deep neural networks in machine learning are applied to the symbolic main melody extraction task. The project focuses on studying and testing various recurrent neural networks to detect the performance of different deep learning network architectures in the task of extracting main melody lines from symbolic music data.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Describe any prerequisites, libraries.
 
 ### Installing
 
 * How/where to download your program
-
 
 ### Executing program
 
@@ -24,6 +21,4 @@ An in-depth paragraph about your project and overview of use.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Xiaoyu Han 
+Xiaoyu Han 
